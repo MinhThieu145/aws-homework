@@ -62,4 +62,4 @@ command.
  * `cdk diff`        compare deployed stack with current state
  * `cdk docs`        open CDK documentation
 
-Enjoy!
+Guide: https://gifted-quiet-50b.notion.site/EC2-Homework-6d8fb69f1c1b4c9bafb9840776d4acea?pvs=4
